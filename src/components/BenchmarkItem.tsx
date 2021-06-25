@@ -1,7 +1,7 @@
 import styled from 'styled-components'
 
 interface BenchmarkItemProps {
-Name: string
+  Name: string
 }
 
 interface ListItemBlockProps {
